@@ -105,7 +105,7 @@ class YashwanthReddy:
 | 🏛️ **[Auction Mechanism Engine](https://github.com/imyashwanthsdp)** | Automated bid-matching & price discovery system for financial markets | Python · Algorithmic Logic |
 | 🌐 **[Portfolio CMS](https://github.com/imyashwanthsdp)** | Full-stack portfolio platform with custom CMS & Firebase auth | React · Node.js · Firebase |
 | 📈 **[Stock Market Dashboard](https://github.com/imyashwanthsdp)** | Real-time market tracking app with live data feeds | React · Material UI · IEX Cloud |
-| 🎬 **[Breaking Bad Fan App](https://github.com/imyashwanthsdp/breakingbad)** | Interactive web app — one of my early React experiments | React · CSS |
+
 
 </div>
 
