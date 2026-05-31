@@ -1,9 +1,8 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yashwanth%20Reddy%20Sodanapalli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" alt="Yashwanth's Header Banner" />
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-reddy-sodanapalli-a7aa6428a)
