@@ -100,7 +100,7 @@ class YashwanthReddy:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🕵️ **[EthanHunt — Research Agent](https://github.com/imyashwanthsdp)** | Autonomous AI research agent that hunts down information, synthesizes insights, and delivers structured reports | Python · LLMs · NLP · GenAI |
+| 🕵️ **[EthanHunt — Research Agent](ethanhunt-research.vercel.app/)** | Autonomous AI research agent that hunts down information, synthesizes insights, and delivers structured reports | Python · LLMs · NLP · GenAI |
 | 🏛️ **[Auction Mechanism Engine](https://github.com/imyashwanthsdp)** | Automated bid-matching & price discovery system for financial markets | Python · Algorithmic Logic |
 | 🌐 **[Portfolio CMS](https://github.com/imyashwanthsdp)** | Full-stack portfolio platform with custom CMS & Firebase auth | React · Node.js · Firebase |
 | 📈 **[Stock Market Dashboard](https://github.com/imyashwanthsdp)** | Real-time market tracking app with live data feeds | React · Material UI · IEX Cloud |
