@@ -101,7 +101,8 @@ class YashwanthReddy:
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | 🕵️ **[EthanHunt — Research Agent](ethanhunt-research.vercel.app/)** | Autonomous AI research agent that hunts down information, synthesizes insights, and delivers structured reports | Python · LLMs · NLP · GenAI |
-| 📈 **[LunarApi-Framework](https://github.com/imyashwanthsdp/LunarApi-Framework)** | Real-time market tracking app with live data feeds | React · Material UI · IEX Cloud |
+| 📈 **[LunarApi-Framework](https://github.com/imyashwanthsdp/LunarApi-Framework)** |**Lunar Framework is an AI-powered API testing framework that leverages LLMs to autonomously discover, validate, and test REST APIs with intelligent test generation and automated reporting.**
+ | Python • REST APIs • API Testing • CLI Development • JSON • PyPI Packaging • Open Source Tooling • LLMs • Hugging Face |
 | 🏛️ **[Auction Mechanism Engine](https://github.com/imyashwanthsdp)** | Automated bid-matching & price discovery system for financial markets | Python · Algorithmic Logic |
 | 🌐 **[Portfolio CMS](https://github.com/imyashwanthsdp)** | Full-stack portfolio platform with custom CMS & Firebase auth | React · Node.js · Firebase |
 
